@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FactorialTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-08-01T10:08:21" hostname="Dollys-MBP.Dlink" time="0.013">
+  <properties/>
+  <testcase name="whenZeroThenReturnOne()" classname="FactorialTest" time="0.01"/>
+  <testcase name="whenPositiveThenReturnFactorial()" classname="FactorialTest" time="0.0"/>
+  <testcase name="whenNegativeThenReturnException()" classname="FactorialTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
